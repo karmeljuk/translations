@@ -1,0 +1,570 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MH Magazine lite v1.6.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-18 15:52+0300\n"
+"Last-Translator: karmeljuk <karmeljuk@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: uk_UA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ mh
+#: content.php:7 includes/mh-widgets.php:99 loop.php:14
+msgid "0 Comments"
+msgstr "0 відгуків"
+
+# @ mh
+#: content.php:7 includes/mh-widgets.php:99 loop.php:14
+msgid "1 Comment"
+msgstr "1 відгук"
+
+# @ mh
+#: content.php:7 includes/mh-widgets.php:99 loop.php:14
+msgid "% Comments"
+msgstr "% відгуків"
+
+# @ mh
+#: comments.php:20 functions.php:491 functions.php:498
+msgid "&laquo;"
+msgstr "&laquo;"
+
+# @ mh
+#: comments.php:20 functions.php:491 functions.php:498
+msgid "&raquo;"
+msgstr "&raquo;"
+
+# @ mh
+#: comments.php:5
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Даний запис захищений паролем. Введіть пароль для перегляду відгуку."
+
+# @ mh
+#: comments.php:39
+msgid "Leave a comment"
+msgstr "Залишити відгук"
+
+# @ mh
+#: comments.php:40
+msgid "Your email address will not be published."
+msgstr "Ваш email не буде публікуватися."
+
+# @ mh
+#: comments.php:12 comments.php:42
+msgid "Comment"
+msgstr "Відгук"
+
+# @ mh
+#: functions.php:66
+msgid "Main Navigation"
+msgstr "Головне меню"
+
+# @ mh
+#: functions.php:97
+msgid "Sidebar"
+msgstr "Бокова панель"
+
+# @ mh
+#: functions.php:98
+msgid "Home 1"
+msgstr "Головна 1"
+
+# @ mh
+#: functions.php:98 functions.php:99 functions.php:100 functions.php:101
+#: functions.php:102
+msgid "Widget area on homepage"
+msgstr "Поле віджетів на домашній сторінці"
+
+# @ mh
+#: functions.php:99
+msgid "Home 2"
+msgstr "Головна 2"
+
+# @ mh
+#: functions.php:100
+msgid "Home 3"
+msgstr "Головна 3"
+
+# @ mh
+#: functions.php:101
+msgid "Home 4"
+msgstr "Головна 4"
+
+# @ mh
+#: functions.php:102
+msgid "Home 5"
+msgstr "Головна 5"
+
+# @ mh
+#: functions.php:105
+msgid "Footer 1"
+msgstr "Підвал 1"
+
+# @ mh
+#: functions.php:106
+msgid "Footer 2"
+msgstr "Підвал 2"
+
+# @ mh
+#: functions.php:107
+msgid "Footer 3"
+msgstr "Підвал 3"
+
+# @ mh
+#: functions.php:108
+msgid "Footer 4"
+msgstr "Підвал 4"
+
+# @ mh
+#: functions.php:452
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+# @ mh
+#: functions.php:456
+msgid "(Edit)"
+msgstr "(Редагувати)"
+
+# @ mh
+#: functions.php:459
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш відгук чекає модерації."
+
+# @ mh
+#: functions.php:476
+msgid "Name "
+msgstr "Ім&rsquo;я"
+
+# @ mh
+#: functions.php:477
+msgid "Email "
+msgstr "Email "
+
+# @ mh
+#: functions.php:478
+msgid "Website"
+msgstr "Сайт"
+
+# @ mh
+#: content-none.php:12
+msgid "Search"
+msgstr "Пошук"
+
+# @ mh
+#: functions.php:186
+#, php-format
+msgid "Page %s"
+msgstr "Сторінка %s"
+
+# @ mh
+#: content.php:7
+msgid " in "
+msgstr "Категорія:  "
+
+# @ mh
+#: includes/mh-widgets.php:167
+msgid "MH Facebook Likebox"
+msgstr "MH Facebook Likebox"
+
+# @ mh
+#: includes/mh-widgets.php:45 includes/mh-widgets.php:122
+#: includes/mh-widgets.php:204
+msgid "Title:"
+msgstr "Заголовок:"
+
+# @ mh
+#: includes/mh-widgets.php:208
+msgid "Facebook Page URL:"
+msgstr "Адреса Facebook сторінки:"
+
+# @ mh
+#: comments.php:13
+msgid " on "
+msgstr " в "
+
+# @ mh
+#: includes/mh-options.php:19
+msgid "General Options"
+msgstr "Головні налаштування"
+
+# @ mh
+#: includes/mh-options.php:22 includes/mh-options.php:56
+msgid "Custom CSS"
+msgstr "Власний CSS"
+
+# @ mh
+#: includes/mh-options.php:23
+msgid "Tracking Code"
+msgstr "Код відстеження"
+
+# @ mh
+#: includes/mh-options.php:49 includes/mh-options.php:78
+msgid "Left"
+msgstr "Лівий"
+
+# @ mh
+#: includes/mh-options.php:49 includes/mh-options.php:79
+msgid "Right"
+msgstr "Правий"
+
+# @ mh
+#: includes/mh-options.php:57
+msgid "Tracking Code (e.g. Google Analytics)"
+msgstr "Код відстеження (наприклад Google Analytics)"
+
+# @ mh
+#: content.php:7
+msgid " by "
+msgstr " Автор:  "
+
+# @ mh
+#: comments.php:34
+msgid "Comments are closed."
+msgstr "Відгуки закриті."
+
+# @ mh
+#: includes/mh-options.php:44
+msgid "Scale background image to full size"
+msgstr "Підігнати картинку фону до повного розміру"
+
+# @ mh
+#: admin/admin.php:37
+msgid "Subheading (will be displayed below post title)"
+msgstr "Підзаголовок (буде показане під заголовком запису)"
+
+# @ mh
+#: functions.php:295
+msgid "About "
+msgstr "Про"
+
+# @ mh
+#: includes/mh-widgets.php:200
+msgid "Connect with us on Facebook"
+msgstr "З'єднатися з Facebook"
+
+# @ mh
+#: includes/mh-options.php:21
+msgid "Posts/Pages Options"
+msgstr "Налаштування сторінки/запису"
+
+# @ mh
+#: includes/mh-options.php:51
+msgid "Disable author box on posts/archives"
+msgstr "Відключити блок автора на записах/архівах"
+
+# @ mh
+#: includes/mh-options.php:54
+msgid "Enable related articles on posts"
+msgstr "Ввімкнути пов&rsquo;язані записи"
+
+# @ mh
+#: searchform.php:3
+msgid "To search, type and hit enter"
+msgstr "Пошук"
+
+# @ mh
+#: comments.php:12
+msgid "Comments"
+msgstr "Відгуки"
+
+# @ mh
+#: comments.php:26
+msgid "Trackbacks & Pingbacks"
+msgstr "Зворотні посилання"
+
+# @ mh
+#: content-none.php:5
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+"Вибачте, але нічого не знайдено. Будь ласка спробуйте ввести інші ключові "
+"слова."
+
+# @ mh
+#: content-none.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Здається, ми не можемо знайти те, що ви шукаєте. Можливо пошук допоможе."
+
+# @ mh
+#: includes/mh-widgets.php:221
+msgid "Show Faces"
+msgstr "Показати обличчя"
+
+# @ mh
+#: includes/mh-widgets.php:225
+msgid "Show Stream"
+msgstr "Показати потік"
+
+# @ mh
+#: includes/mh-widgets.php:229
+msgid "Show Header"
+msgstr "Показати верх"
+
+# @ mh
+#: includes/mh-widgets.php:233
+msgid "Show Border"
+msgstr "Показати рамку"
+
+# @ mh
+#: includes/mh-options.php:45
+msgid "Disable prettyPhoto lightbox"
+msgstr "Відключити prettyPhoto lightbox"
+
+# @ mh
+#: includes/mh-options.php:52
+msgid "Enable comments on pages"
+msgstr "Ввімкнути відгуки на сторінках"
+
+# @ mh
+#: functions.php:221
+msgid "Page not found (404)"
+msgstr "Сторінка не знайдена (404)"
+
+# @ mh
+#: functions.php:333
+msgid "&larr; Previous image"
+msgstr "&larr; Попередня картинка"
+
+# @ mh
+#: functions.php:340
+msgid "Next image &rarr;"
+msgstr "Наступна картинка &rarr;"
+
+# @ mh
+#: includes/mh-options.php:53
+msgid "Enable post / attachment navigation"
+msgstr "Ввімкнути записи /  прив&rsquo;зана навігація"
+
+# @ mh
+#: functions.php:97
+msgid "Widget area (sidebar left/right) on single posts, pages and archives"
+msgstr ""
+"Поле віджетів (бокова колонка справа/зліва) на записах, сторінках чи архівах"
+
+# @ mh
+#: functions.php:103
+msgid "Posts 1"
+msgstr "Запис 1"
+
+# @ mh
+#: functions.php:103
+msgid "Widget area above single post content"
+msgstr "Поле віджетів над вмістом одиничного запису"
+
+# @ mh
+#: functions.php:104
+msgid "Posts 2"
+msgstr "Запис 2"
+
+# @ mh
+#: functions.php:104
+msgid "Widget area below single post content"
+msgstr "Поле віджетів під вмістом одиничного запису"
+
+# @ mh
+#: functions.php:105 functions.php:106 functions.php:107 functions.php:108
+msgid "Widget area in footer"
+msgstr "Поле віджетів в підвалі"
+
+# @ mh
+#: includes/mh-options.php:20
+msgid "Layout Options"
+msgstr "Налаштування теми"
+
+# @ mh
+#: includes/mh-options.php:49
+msgid "Position of default sidebar"
+msgstr "Позиція стандартної бокової панелі"
+
+# @ mh
+#: includes/mh-options.php:46
+msgid "Custom excerpt length in characters"
+msgstr "Власна довжина виятгу в знаках"
+
+# @ mh
+#: includes/mh-options.php:47
+msgid "Custom excerpt more text"
+msgstr "Власний текст \"далі\" для витягу"
+
+# @ mh
+#: includes/mh-widgets.php:212
+msgid "Width:"
+msgstr "Ширина:"
+
+# @ mh
+#: includes/mh-widgets.php:216
+msgid "Height:"
+msgstr "Висота:"
+
+# @ mh
+#: includes/mh-widgets.php:126 includes/mh-widgets.php:294
+msgid "Select a Category:"
+msgstr "Вибрати категорію:"
+
+# @ mh
+#: includes/mh-widgets.php:128 includes/mh-widgets.php:296
+msgid "All"
+msgstr "Всі"
+
+# @ mh
+#: includes/mh-widgets.php:141 includes/mh-widgets.php:309
+msgid "Filter Posts by Tags (e.g. lifestyle):"
+msgstr "Фільтр записів за тегами:"
+
+# @ mh
+#: includes/mh-widgets.php:145 includes/mh-widgets.php:313
+msgid "Show:"
+msgstr "Показати:"
+
+# @ mh
+#: includes/mh-widgets.php:146 includes/mh-widgets.php:150
+#: includes/mh-widgets.php:314 includes/mh-widgets.php:318
+msgid "Posts"
+msgstr "Записи"
+
+# @ mh
+#: includes/mh-widgets.php:149 includes/mh-widgets.php:317
+msgid "Skip:"
+msgstr "Пропустити:"
+
+# @ mh
+#: includes/mh-widgets.php:154 includes/mh-widgets.php:322
+msgid "Ignore Sticky Posts"
+msgstr "Ігнорувати фіксовані записи"
+
+# @ mh
+#: functions.php:326
+msgid "&larr; Back to article"
+msgstr "&larr; Вернутися до запису"
+
+# @ mh
+#: functions.php:335
+msgid "&larr; Previous article"
+msgstr "&larr; Попередній запис"
+
+# @ mh
+#: functions.php:342
+msgid "Next article &rarr;"
+msgstr "Наступний запис &rarr;"
+
+# @ mh
+#: functions.php:366
+msgid "Related Articles"
+msgstr "Схожі записи"
+
+# @ mh
+#: includes/mh-widgets.php:18
+msgid "MH Affiliate Widget"
+msgstr "Віджет MH Affiliate"
+
+# @ mh
+#: includes/mh-widgets.php:53
+msgid "Banner size:"
+msgstr "Розмір банеру:"
+
+# @ mh
+#: admin/admin.php:27
+msgid "Post Options"
+msgstr "Налаштування запису"
+
+# @ mh
+#: includes/mh-widgets.php:17
+msgid ""
+"MH Affiliate Widget to earn money by promoting WordPress themes by MH Themes."
+msgstr ""
+"Віджет MH Affiliate для заробляння грошей, просуваючи WordPress теми від MH "
+"Themes."
+
+# @ mh
+#: includes/mh-widgets.php:62
+msgid ""
+"With this widget you can earn money by promoting WordPress themes by MH "
+"Themes. If you do not have a Creative Market Username yet, please visit our"
+msgstr ""
+"За допомогою цього віджета ви можете заробити гроші, просуваючи WordPress "
+"теми MH Themes"
+
+# @ mh
+#: includes/mh-widgets.php:62
+msgid "infopage for affiliates"
+msgstr "Інформаційна сторінка для філій"
+
+# @ mh
+#: content-none.php:16
+msgid "Recent Articles"
+msgstr "Пов'язані записи"
+
+# @ mh
+#: content.php:7
+msgid "Posted on "
+msgstr "Дата: "
+
+# @ mh
+#: includes/mh-widgets.php:70
+msgid "Custom Posts Widget to display posts based on categories or tags."
+msgstr ""
+"Віджет власних записів для показу записів базуючись на категоріях чи мітках"
+
+# @ mh
+#: includes/mh-widgets.php:71
+msgid "MH Custom Posts (Lite)"
+msgstr "MH Custom Posts (Полегшена версія)"
+
+# @ mh
+#: includes/mh-widgets.php:157 includes/mh-widgets.php:325
+msgid ""
+"This is the Lite Version of this widget with only basic features. If you "
+"need more features and options, you can upgrade to the premium version of "
+"this theme."
+msgstr ""
+"Це полегшена версія цього віджета тільки з базовими можливостями. Якщо вам "
+"потрібно більше можливостей і варіантів, ви можете перейти на преміум-версію "
+"цієї теми."
+
+# @ mh
+#: includes/mh-widgets.php:166
+msgid "Widget to display a Facebook likebox in your sidebar."
+msgstr "Віджет для показу Facebook Likebox на вашій боковій панелі."
+
+# @ mh
+#: includes/mh-widgets.php:242
+msgid "Slider widget for use on homepage template."
+msgstr "Віджет слайдера для використання на домашній сторінці"
+
+# @ mh
+#: includes/mh-widgets.php:243
+msgid "MH Slider Widget (Lite)"
+msgstr "MH Slider Widget (Полегшена версія)"
+
+# @ mh
+#: functions.php:207
+#, php-format
+msgctxt "post author"
+msgid "Articles by %s"
+msgstr "Записи від %s"
+
+# @ mh
+#: functions.php:215
+msgid "Archives"
+msgstr "Архіви"
+
+# @ mh
+#: functions.php:223
+#, php-format
+msgid "Search Results for %s"
+msgstr "Результати пошуку для %s"
